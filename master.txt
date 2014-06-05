@@ -1,0 +1,141 @@
+0 0 Icon
+0 0 master.txt
+10195 1228 Garota_De_Ipanema.pdf
+10421 42 Tarrega - Malaguena.PDF
+10421 42 Tarrega Malaguena.pdf
+10490 52 Gnossienne2.pdf
+10728 27 liszt_liebestraum.pdf
+11199 48 trad_Andalucia.pdf
+1217 35 origran2.gif
+1303 56 williams_classical_gas_pdf.zip
+13593 59 villa_lobos_prelude_no1.pdf
+1404 100 1026.pdf
+1404 100 Francisco Tarrega Capricho Arabe 2.pdf
+1404 100 Tarrega - Capricho Arabe.pdf
+15558 22 92.27.201.21.VM0002.PDF
+15558 22 Romance-Anonymous.pdf
+15631 208 2688_001.pdf
+16574 93 arabe.pdf
+16634 44 pachelbel_canon_pdf.zip
+16659 464 FernandoSorFiveGuitarPieces.pdf
+18371 95 AlbenizCadiz.pdf
+18561 173 Triste-No-4-J.Aguirre.pdf
+21271 20 satie_gymnopedie_no1.pdf
+2186 57 Presto-IX.pdf
+22316 116 zortzico.pdf
+23050 325 Barrios 5 Guitar Pieces.pdf
+23050 325 barrios5pieces.pdf
+23065 26 anonym_tango_pdf.zip
+23141 62 92.27.201.21.VM0014.PDF
+23141 62 Francisco Tarrega Capricho Arabe.pdf
+23174 54 LuisMilan2Pavanasforguitar.pdf
+24789 31 Anonym_Tango.pdf
+25187 22 zenamon_carta_de_amor.pdf
+25612 16 satie_gymnopedie_no1_pdf.zip
+25761 88 LuisMilanFantasia copy.pdf
+25761 88 LuisMilanFantasia.pdf
+26486 64 villa_lobos_choros_no1_pdf.zip
+2728 98 recuerdos-de-la-alhambra .pdf
+29110 54 Summertime-George-Gershwin.pdf
+29135 61 Untitled-Timothy-Bowers.pdf
+29302 41 satie-erik-gnossienne-4.pdf
+30653 35 almeida_destino_pdf.zip
+30745 171 Mudarra-Fantasia-X-que-contrahaze-la-harpa-en-la-manera-de-Ludovico.pdf
+31181 105 J.Aguirre-Triste-No-4.pdf
+31241 69 villa_lobos_choros_no1.pdf
+32196 38 F.Tarrega-Adelita.pdf
+32325 178 ENRIQUE GRANADOS L a Maja D eGoya.pdf
+32325 178 ENRIQUEGRANADOSLaMajDeGoya.pdf
+32811 81 Albeniz_Malaguena_Op165no3.pdf
+33680 51 Sor_Study-in-C.pdf
+33983 561 7preludes4guitar.pdf
+33983 561 Francisco Tarrega 7 Preludes For Guitar.pdf
+34155 203 Albeniz_rumores_de_la_caleta.pdf
+34197 439 mirtha-facundo-malaguena.pdf
+34317 70 Lachrimae_Pavane_John_Dowland.pdf
+34370 238 Cordoba-Albeniz.pdf
+36791 91 Prelude-Johann-Sebastian-Bach.pdf
+37135 148 playa.pdf
+38050 360 Tarrega Sueno.pdf
+38050 360 TarregaSueno.pdf
+40376 105 FerrandiereContradanza.pdf
+41094 1928 companion_for_the_guitar.pdf
+41995 40 almeida_destino.pdf
+42032 289 puerta-de-tierra.pdf
+42528 192 AlbenizCataluna.pdf
+42812 240 lobos5preludes.pdf
+44860 17130 Bossa_Nova_Guitar_Arrangement.pdf
+44864 278 RiBS0836.pdf
+44864 278 Tarrega - Recuerdos de la Alhambra.pdf
+45055 1411 Bach Chaconne.pdf
+45055 1411 chaconne.pdf
+45427 39 [Free-scores.com]_satie-erik-gnossienne-17995.pdf
+45500 436 Rodrigo - Concierto de Aranjuez - II.pdf
+45821 136 AlbenizAusturias.pdf
+46227 49 pachelbel_canon.pdf
+46490 1014 2686_001.pdf
+46568 28327 987311-The-Joe-Pass-Guitar-Method.pdf
+46568 28327 The-Joe-Pass-Guitar-Method.pdf
+47266 650 Tarrega 8 Guitar Pieces.pdf
+47266 650 Tarrega8GuitarPieces.pdf
+48109 111 Villa-Lobos-Etude-No-8.pdf
+48927 129 AlbenizGranada.pdf
+4904 1207 Napoleon Coste - 25 Studies for Guitar.pdf
+4904 1207 Napoleon Coste 25 Studies 1130.pdf
+49925 557 Tarrega Capricho Arabe.pdf
+49925 557 TarregaCaprichoArabe.pdf
+5033 299 Francisco Tarrega Lagrima.pdf
+50433 97 ENRIQUE GRANADOS Spanish Dance No 5.pdf
+50433 97 ENRIQUEGRANADOSSpanishDanceNR5.pdf
+50489 89 Gnossienne1.pdf
+50580 62 williams_classical_gas.pdf
+50834 171 Tarrega 4 Waltzes.pdf
+50834 171 Tarrega4Waltzes.pdf
+51588 40 pernambuco_sons_de_carillhoes_pdf.zip
+52523 1276 H Villa-Lobos Etude No 8.pdf
+52824 64 Albenis Asturias Leyenda 213.121.168.130.VM0056.PDF
+52824 64 Albenis Asturias Leyenda.pdf
+53717 33 DANIELFORTEARomance.pdf
+53717 33 Romance.pdf
+53757 54 Fernando-Sor-Study-in-B-Minor.pdf
+54749 19459 973725-Antonio-Carlos-Jobim-For-Guitar-Tab.pdf
+54749 19459 Antonio-Carlos-Jobim-For-Guitar-Tab.pdf
+55403 55 Gnossienne3 copy.pdf
+55403 55 Gnossienne3.pdf
+55433 71 jobim_esperanca_perdida.pdf
+56417 35 92.27.201.21.VM0082.PDF
+56417 35 Francisco Tarrega Dran Vals.pdf
+57212 25 ORIGRAN1.gif
+57424 68 Grieg-Edvard-anitra's-dance.pdf
+57657 66 jobim_esperanca_perdida_pdf.zip
+58251 1500 Clair-de-Lune.pdf
+59210 101 Tarrega 4 Guitar Pieces.pdf
+59210 101 Tarrega4GuitarPieces.pdf
+59354 2601 24459508-Martin-Taylor-Guitar-Method.pdf
+59354 2601 Martin-Taylor-Guitar-Method.pdf
+59726 176 267825942_v28KH-O.jpg
+59726 176 Erik Satie Gymnopedie No 1.jpg
+60032 234 Leo Brouwer-La Harpe Du Guerrier.pdf
+60182 143 MalatsSerenataEspanola copy.pdf
+60182 143 MalatsSerenataEspanola.pdf
+60223 283 zambra-granadina copy.pdf
+60223 283 zambra-granadina.pdf
+60964 185 albeniz_asturias.pdf
+61836 3 copy.txt
+62148 160 Villa-Lobos-Prelude-No-4.pdf
+62544 53 Bizet Carmen-Habanera.pdf
+62544 53 bizet_carmen_habanera.pdf
+63107 53 villa_lobos_prelude_no1_pdf.zip
+63575 35 llobet_canco_del_lladre.pdf
+65294 247 AlbenizMallorca.pdf
+6659 114 Omaggio-Per-Chitarra-Manuel-de-Falla.pdf
+7038 46 pernambuco_sons_de_carillhoes.pdf
+804 4101 Jazz&Popular_Songs_John_Duarte.pdf
+8382 623 MALAGUE.pdf
+8483 15357 7813403-Flamenco-Guitar-Complete-Works.pdf
+8483 15357 Flamenco-Guitar-Complete-Works.pdf
+8697 23 liszt_liebestraum_pdf.zip
+8944 130 24031838-Erik-Satie-Gnossienne-No-1-sheet-music.pdf
+8944 130 Erik-Satie-Gnossienne-No-1.pdf
+8958 694 Destino.pdf
+9732 333 AlbenizTorreBermeja.pdf
